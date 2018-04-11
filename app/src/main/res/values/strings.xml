@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="name_hint">Name</string>
+    <string name="question_1">What is the name of Magnus Bane cat in the series Shadowhunter?</string>
+    <string name="question_2">What is the name of the previously hidden country in the marvel universe?</string>
+    <string name="question_3">What is the name of the futuristic novel focusing on a online universe with 80s pop
+culture as it main inspiration?</string>
+    <string name="question_4">Movie series based around giant robots fighting giant monsters or other robots.
+(Pick any that apply)</string>
+    <string name="question_5">Who is Han Solo partner in crime?</string>
+    <string name="question_6">Which game series(s) focus on hunting big monsters as their main selling point?</string>
+
+    <!-- Question 1 Options -->
+    <string name="q1_option_1">Mr. Paws</string>
+    <string name="q1_option_2">Cpt.Catnip</string>
+    <string name="q1_option_3">Highness</string>
+    <string name="q1_option_4">Chairman Meow</string>
+
+    <!-- Question 2 Hint -->
+    <string name="q2_hint">Recent Movie</string>
+
+    <!-- Question 3 Options -->
+    <string name="q3_option_1">Sword Art Online</string>
+    <string name="q3_option_2">Final Fantasy</string>
+    <string name="q3_option_3">Ready Player One</string>
+
+    <!-- Question 4 Options -->
+    <string name="q4_option_1">Pacific Rim</string>
+    <string name="q4_option_2">Star Trek</string>
+    <string name="q4_option_3">The Expendables</string>
+    <string name="q4_option_4">Transformer</string>
+    <string name="q4_option_5">Star Wars</string>
+
+    <!-- Question 5 Options -->
+    <string name="q5_option_1">Digimon</string>
+    <string name="q5_option_2">Monster Hunter</string>
+    <string name="q5_option_3">The Sims</string>
+    <string name="q5_option_4">God Eater</string>
+    <string name="q5_option_5">Pokemon</string>
+
+    <!-- Submit button text -->
+    <string name="submit_button">Submit</string>
+    <!-- Reset button text -->
+    <string name="reset_button">Reset</string>
+
+
+
+</resources>
